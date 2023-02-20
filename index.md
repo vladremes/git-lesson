@@ -1,6 +1,6 @@
 # My first Website
 
-Welcome to my website!
+Welcome to my website! Hmm, very interesting...
 
 I created this website during [this workshop](https://r-rse-git-github-zero2hero.netlify.app)
 
